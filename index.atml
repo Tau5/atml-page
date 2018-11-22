@@ -1,0 +1,25 @@
+title:ATML Hub;
+page{
+    favicon:/\,
+    favicon-type:text
+};
+text{bold:true,center-x:true}:Welcome to the ATML Hub!;nl;nl;
+
+    link{ 
+        aref: index.atml, 
+        background-color: #450D29,
+    }:Home;
+
+    link{ 
+        left: 2,
+        relative-url: true,
+        aref: chat,
+        background-color: #450D29,
+        color:#FFBD00
+    }:ATML Chat;
+    
+    nl;nl;
+
+text:This website is aimed to provide links to ATML websites and;nl;
+text:demos of new ATML tech.;nl;
+
